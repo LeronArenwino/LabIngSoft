@@ -1,11 +1,7 @@
 package Frontera;
 
-
 public class FramePrincipal extends javax.swing.JFrame {
 
-    /**
-     * Creates new form FramePrincipal
-     */
     public FramePrincipal() {
         initComponents();
     }
